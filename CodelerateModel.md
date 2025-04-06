@@ -7,7 +7,7 @@ i - PROCESSED AND CLEANED DATASET
 ii - TRAINING AND TESTING.
 - 
 - As the size of the file was too large to upload in the GitHub, here is the Gdrive link for the model training and evaluation process.
-- GDrive Link - https://drive.google.com/file/d/1f7TQmxXds1ptRV3U87ovtepUHye1t368/view?usp=drive_link
+- GDRIVE LINK - https://drive.google.com/file/d/1f7TQmxXds1ptRV3U87ovtepUHye1t368/view?usp=drive_link
 
 
 
