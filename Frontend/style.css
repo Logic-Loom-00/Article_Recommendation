@@ -1,0 +1,41 @@
+body {
+    background: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-Images-Book-Wallpapers-HD.jpg') no-repeat center center fixed;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+    background-blend-mode: multiply;     /* Adjust blending mode */
+}
+h1{
+    color: #f6f1f1;
+    text-align: center;
+    font-size: 5em;
+    margin-top: 50px;
+}
+p{
+    color: #f6f1f1;
+    text-align: center;
+    font-size: 3em;
+    margin: 10%;
+}
+div{
+    display:inline-block;
+    text-align: center;
+    margin-left:400px;
+}
+button {
+    border-radius:20px;
+    border-width:5px;
+    border-style: solid;
+    border-color: #f6f1f1;
+    padding: 14px 32px;           
+    font-size:30px;               
+    background-color: rgba(255, 255, 255, 0.2); 
+    color: white;                   
+    border: none;                   
+    border-radius: 8px;
+    cursor: pointer;               
+    transition: background-color 0.3s ease;
+  }
+  button:hover {
+    background-color: rgb(99, 97, 96);     
+  }
+    
