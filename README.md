@@ -20,42 +20,12 @@ Given a raw, unstructured dataset, we aimed to develop a recommender system that
 ## 🛠️ Workflow / Methodology
 
 ### 1️⃣ Understanding the Dataset
-- Inspected structure (categorical vs numerical data)
-- Analyzed column types and relationships
-- Identified missing values and potential inconsistencies
-
 ### 2️⃣ Data Cleaning & Preprocessing
-- Handled null values using interpolation and imputation
-- Removed duplicates and managed outliers
-- Standardized text fields
-- Created a `clean_title` column
-- Applied **TF-IDF vectorization**
-
 ### 3️⃣ Exploratory Data Analysis (EDA)
-- Summarized distributions (mean, median, std)
-- Analyzed feature correlations
-- Detected imbalances in the data
-- Visualized data trends using histograms and heatmaps
-
 ### 4️⃣ Data Visualization & Insight Extraction
-- Used **matplotlib**, **seaborn**, and **pandas** to draw insights
-- Created plots like boxplots, bar charts, and pair plots
-- Identified key patterns in user interests and article structure
-
 ### 5️⃣ Feature Engineering
-- Selected meaningful features for input
-- Scaled features for consistency
-- Derived useful transformations from existing data
-
 ### 6️⃣ Efficient Use of Data
-- Removed unused and redundant fields
-- Justified all preprocessing actions via statistical checks
-
 ### 7️⃣ Final Report & Documentation
-- Well-commented Jupyter Notebook with full processing flow
-- Explained model logic, output structure, and performance
-- Project demo deployed via Flask server
-
 ---
 
 ## 🤖 ML Model Used
