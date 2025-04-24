@@ -9,6 +9,7 @@ model = model_data['model']
 tfidf = model_data['tfidf']
 df = model_data['df']
 
+name3=fun
 app = Flask(__name__)
 
 @app.route("/", methods=["GET", "POST"])
