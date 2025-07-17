@@ -1,9 +1,9 @@
 # CodelerateHackathon
 This repository was created for Codelerate_Hackathon orgnanized by Coimbatore Institute of Technology(CIT). 
 
-# 🧠 Article Recommendation System using Machine Learning
+# Article Recommendation System using Machine Learning
 
-Welcome to our project — **Article Recommendation System**, built by **Team Inferno** alias **Logic-Loom**! 🔥  
+Welcome to our project — **Article Recommendation System**, built by **Team Inferno** alias **Logic-Loom**!   
 This ML-powered web application recommends article titles based on user input — specifically, an article they've already read. The system leverages **TF-IDF vectorization** and **Cosine Similarity** through the **Nearest Neighbors algorithm**.
 
 ## 🚀 Project Overview
@@ -17,7 +17,7 @@ Given a raw, unstructured dataset, we aimed to develop a recommender system that
 
 ---
 
-## 🛠️ Workflow / Methodology
+## Workflow / Methodology
 
 ### 1️⃣ Understanding the Dataset
 ### 2️⃣ Data Cleaning & Preprocessing
@@ -28,7 +28,7 @@ Given a raw, unstructured dataset, we aimed to develop a recommender system that
 ### 7️⃣ Final Report & Documentation
 ---
 
-## 🤖 ML Model Used
+## ML Model Used
 
 - **TF-IDF Vectorizer** for transforming article titles into feature vectors
 - **Nearest Neighbors (Cosine Similarity)** to suggest top 5 similar articles
@@ -36,7 +36,7 @@ Given a raw, unstructured dataset, we aimed to develop a recommender system that
 
 ---
 
-## 🧪 Output Example
+## Output Example
 
 > **User Input**: *"Understanding Cloud Computing"*  
 > **Recommended Articles**:
@@ -48,7 +48,7 @@ Given a raw, unstructured dataset, we aimed to develop a recommender system that
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 The application is deployed using **Flask**, where:
 - The input is accepted via a simple HTML form
@@ -57,9 +57,9 @@ The application is deployed using **Flask**, where:
 
 ---
 
-## 💡 Technologies Used
+## Technologies Used
 
-- Python (pandas, sklearn, numpy, rapidfuzz)
+- Python (pandas, sklearn, numpy)
 - Flask
 - HTML5 / CSS3 (Responsive Design)
 - Jupyter Notebook
@@ -70,9 +70,9 @@ The application is deployed using **Flask**, where:
 
 | Name                   | Role                              |
 |------------------------|-----------------------------------|
-| 🔥 Elango-Kannan-00           | Dataset Cleaning & Model Training |
-| 🎨 Dhanushiya-srini | Frontend Design (HTML + CSS)      |
-| ⚙️ DharshiniSaravanan-2006  | Flask Deployment & Integration    |
+| Elango-Kannan-00           | Dataset Cleaning & Model Training |
+| Dhanushiya-srini | Frontend Design (HTML + CSS)      |
+| DharshiniSaravanan-2006  | Flask Deployment & Integration    |
 
 ---
 
@@ -82,8 +82,5 @@ If you'd like to test the project or want to collaborate, feel free to fork or o
 ⭐ Star the repository if you find it useful!
 
 ---
-
-## 📌 Tags  
-#AI #MachineLearning #RecommendationSystem #Flask #TeamInferno #TFIDF #CosineSimilarity #ProjectShowcase
 
 
