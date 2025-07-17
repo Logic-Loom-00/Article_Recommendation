@@ -6,7 +6,7 @@ This repository was created for Codelerate_Hackathon orgnanized by Coimbatore In
 Welcome to our project — **Article Recommendation System**, built by **Team Inferno** alias **Logic-Loom**!   
 This ML-powered web application recommends article titles based on user input — specifically, an article they've already read. The system leverages **TF-IDF vectorization** and **Cosine Similarity** through the **Nearest Neighbors algorithm**.
 
-## 🚀 Project Overview
+## Project Overview
 
 Given a raw, unstructured dataset, we aimed to develop a recommender system that:
 
@@ -66,7 +66,7 @@ The application is deployed using **Flask**, where:
 
 ---
 
-## 👨‍👩‍👧 Team Inferno
+## Team Logic-Loom
 
 | Name                   | Role                              |
 |------------------------|-----------------------------------|
