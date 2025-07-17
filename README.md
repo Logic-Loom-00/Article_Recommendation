@@ -22,10 +22,8 @@ Given a raw, unstructured dataset, we aimed to develop a recommender system that
 ### 1️⃣ Understanding the Dataset
 ### 2️⃣ Data Cleaning & Preprocessing
 ### 3️⃣ Exploratory Data Analysis (EDA)
-### 4️⃣ Data Visualization & Insight Extraction
-### 5️⃣ Feature Engineering
-### 6️⃣ Efficient Use of Data
-### 7️⃣ Final Report & Documentation
+### 4️⃣ Data Visualization 
+### 5️⃣ Training and Testing 
 ---
 
 ## ML Model Used
@@ -76,7 +74,7 @@ The application is deployed using **Flask**, where:
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 If you'd like to test the project or want to collaborate, feel free to fork or open an issue!  
 ⭐ Star the repository if you find it useful!
